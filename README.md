@@ -1,6 +1,6 @@
 ## Hi there 👋
-The code is public. 
-code is coming soon!
+✅ The code is public.  
+⏳ Coming soon!
 <!--
 **DiffAAPD/DiffAAPD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
